@@ -1,0 +1,25 @@
+body {
+     font-family:sans-serif;
+   }
+
+.section1 {
+  background-color: white;
+}
+
+  .section2 {
+    background-color: orangered;
+    color: white;
+  }
+
+  .section3 {
+    background-color: orangered;
+    color: white;
+  }
+
+  .section4 {
+    font-size: 7;
+  }
+
+    .section5 {
+      color: grey;
+    }
