@@ -1,25 +1,57 @@
-body {
-     font-family:sans-serif;
-   }
+body{
+  font-family: sans-serif;
 
-.section1 {
-  background-color: white;
 }
 
-  .section2 {
-    background-color: orangered;
-    color: white;
-  }
+.product-container{
+  border: solid 5px orangered;
 
-  .section3 {
-    background-color: orangered;
-    color: white;
-  }
 
-  .section4 {
-    font-size: 7;
-  }
+  background-color: orangered;
 
-    .section5 {
-      color: grey;
-    }
+  margin-top: 10px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+
+padding: 50px;
+
+}
+
+.text-detail{
+  border: solid 0px white;
+  background-color: white;
+
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 80px;
+
+}
+
+.shop-shoes{
+  border: solid 5px #FFF6F5;
+  background-color: #FFF6F5;
+  text-align: center;
+
+  margin-top: 10px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+
+  padding: 0
+
+}
+
+
+.footer {
+  border: solid 5px white;
+  background-color: white;
+
+  margin-top: 10px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+
+  padding: 0
+}
